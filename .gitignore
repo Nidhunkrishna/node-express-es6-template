@@ -1,0 +1,14 @@
+node_modules/
+bower_components/
+coverage/
+.sass-cache/
+.idea/
+.tmp/
+dist/
+.vscode/
+*.DS_Store
+.DS_Store
+*.zip
+*.7z
+tests/units.html
+*.log
